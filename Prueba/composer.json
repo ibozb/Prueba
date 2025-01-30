@@ -1,0 +1,16 @@
+{
+    "name": "misdependencias/prueba",
+    "description": "Primer proyecto con PHP",
+    "authors": [
+        {
+            "name": "Aiub Filali",
+            "email": "aiub.tel@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.4",
+        "laravel/framework": ">= 10.0",
+        "doctrine/inflector": "^2.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
